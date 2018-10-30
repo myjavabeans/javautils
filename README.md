@@ -1,2 +1,2 @@
 # javautils
-This repository contains util classes in Java
+This repository contains util classes in Java.
